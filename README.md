@@ -4,7 +4,7 @@
 # <h1 align=center>**`Data Analysis`**</h1>
 
 <p align="center">
-<img src="[https://www.simplilearn.com/ice9/free_resources_article_thumb/Business_Analytics_vs_Data_Analytics.jpg](https://www.eginnovations.com/blog/wp-content/uploads/2018/10/end-user-experience-monitoring-tools.jpg)"  height=500>
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Business_Analytics_vs_Data_Analytics.jpg"  height=400>
 </p>
 
 ## Contexto
