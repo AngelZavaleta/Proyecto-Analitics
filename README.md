@@ -24,11 +24,16 @@ Haciendo uso de los datasets en "https://datosabiertos.enacom.gob.ar/dashboards/
 
 ## SPEECH
 
-Indicador 1) Variación porcentual
-Indicador 2) Velocidad promedio de internet
-Indicador 3) ADSL - Cablemodem - Fibra - Wireless
-Indicador 4) Suma de Ingresos por año
-Indicador 5) Suma de Mbps por año
+Indicador 1) Variación porcentual.
+
+Indicador 2) Velocidad promedio de internet.
+
+Indicador 3) ADSL - Cablemodem - Fibra - Wireless.
+
+Indicador 4) Suma de Ingresos por año.
+
+Indicador 5) Suma de Mbps por año.
+
 
 A pesar de identificar tendencias no pude mostrar valores numericos, pero se ve claramente en los gráficos. En conclusión, la empresa debería invertir en la distribución de tecnologias de fibra óptica y Cablemodem en menor grado.
 
