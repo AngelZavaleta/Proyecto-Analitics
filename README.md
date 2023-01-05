@@ -1,5 +1,5 @@
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº3** 
-# <h1 align=center> **Angel Zavaleta** </h1>
+# <h1 align=center> **Angel Hiran Zavaleta Luna** </h1>
 
 # <h1 align=center>**`Data Analysis`**</h1>
 
@@ -17,7 +17,7 @@ La realización de un análisis completo facilitando el reconocimiento y el comp
 
 Con la finalidad de poder monitorear eficazmente los objetivos de la empresa, mi labor consiste en presentar un dashboard medidores de desempeño (KPI's) con el objetivo de:
 
-    Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia.
+Evaluar el aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares por provincia.
 
 Haciendo uso de los datasets en "https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/" 
 
