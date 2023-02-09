@@ -1,7 +1,7 @@
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº3** 
 # <h1 align=center> **Angel Hiran Zavaleta Luna** </h1>
 
-# <h1 align=center>**`Data Analysis`**</h1>
+# <h1 align=center>**`Mejorando la Eficiencia del Servicio de Internet`**</h1>
 
 <p align="center">
 <img src="https://www.eginnovations.com/blog/wp-content/uploads/2018/10/end-user-experience-monitoring-tools.jpg"  height=400>
